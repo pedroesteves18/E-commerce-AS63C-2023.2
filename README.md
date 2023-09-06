@@ -1,2 +1,11 @@
 # E-commerce-AS63C-2023.2
-Repositório criado para hospedar os arquivos do projeto da aula de Desenvolvimento Ágil - UTFPR
+
+Grupo Truco
+AS63C - Desenvolvimento Ágil - UTFPR
+Lucas Soares da Silva Rocha (1913336) - FOTO, https://github.com/lrocha2001/
+João Pedro Koguishi (??????) Pedro ??????? - FOTO, ???????
+Pedro Esteves  (?????) - FOTO, ?????
+Gustavo Yuusuka (2525291) - FOTO, ????/
+
+Repositório referente ao projeto de um E-commerce genérico, incluindo a prototipação e requisitos de sistema e usuário.
+
