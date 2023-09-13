@@ -11,7 +11,7 @@ Pedro Esteves Mendonça da Silva, RA 2465230 <br>
 
 Gustavo Yuusuka, RA 2525291 <br>
 
-Pedro Henrique Mendes de Paula (2142708) - FOTO, [https://](https://github.com/pedrohmp13/) <br>
+Pedro Henrique Mendes de Paula (2142708) - FOTO, https://github.com/pedrohmp13/
 
 
 Repositório referente ao projeto de um E-commerce genérico, incluindo a prototipação e requisitos de sistema e usuário.
