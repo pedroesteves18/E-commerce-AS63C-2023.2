@@ -3,16 +3,16 @@
 ## Grupo Truco // AS63C - Desenvolvimento Ágil - UTFPR
 
 ### Participantes
-Lucas Soares da Silva Rocha, RA 1913336, https://github.com/lrocha2001/ 
 
-João Pedro Koguishi (??????) Pedro ??????? - FOTO, ??????? <br>
+João Pedro Koguishi(2391180)
 
-Pedro Esteves Mendonça da Silva, RA 2465230 <br>
+Lucas Soares(1913336) - https://github.com/lrocha2001/ 
 
-Gustavo Yuusuka, RA 2525291 <br>
+Pedro Esteves (2465230) - https://github.com/pedroesteves18/
 
-Pedro Henrique Mendes de Paula (2142708) - FOTO, https://github.com/pedrohmp13/
+Gustavo Yuusuke (2525291)
 
+Pedro Henrique Mendes (2142708) - https://github.com/pedrohmp13/
 
 Repositório referente ao projeto de um E-commerce genérico, incluindo a prototipação e requisitos de sistema e usuário.
 
