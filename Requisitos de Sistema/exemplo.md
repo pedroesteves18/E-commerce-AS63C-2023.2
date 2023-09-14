@@ -4,7 +4,7 @@ exemplo requisitos de sistema
 
 RF-01 |A aplicação deve permitir que usuários não autenticados possam se registrar com informações pessoais. | -
 
-RF-02 |Um usuário não autenticado pode alterar a própria senha através do fluxo de "Esqueceu a senha". | - RF-01.
+RF-02 |Um usuário não autenticado pode alterar a própria senha através do fluxo de "Esqueceu a senha". | -
 
 RF-03 |Um usuário não autenticado pode realizar a autenticação na aplicação. | - RF-01.
 
